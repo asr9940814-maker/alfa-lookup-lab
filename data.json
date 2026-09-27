@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1001,
+    "name": "Rahul Sharma",
+    "phone": "9000000001",
+    "email": "rahul.test@example.com",
+    "username": "rahul_test",
+    "city": "Patna",
+    "country": "India",
+    "source": "AUTHORIZED_TEST_RECORD"
+  },
+  {
+    "id": 1002,
+    "name": "Amit Kumar",
+    "phone": "9000000002",
+    "email": "amit.test@example.com",
+    "username": "amit_test",
+    "city": "Delhi",
+    "country": "India",
+    "source": "AUTHORIZED_TEST_RECORD"
+  },
+  {
+    "id": 1003,
+    "name": "Neha Singh",
+    "phone": "9000000003",
+    "email": "neha.test@example.com",
+    "username": "neha_test",
+    "city": "Mumbai",
+    "country": "India",
+    "source": "AUTHORIZED_TEST_RECORD"
+  },
+  {
+    "id": 1004,
+    "name": "Arjun Verma",
+    "phone": "9000000004",
+    "email": "arjun.test@example.com",
+    "username": "arjun_test",
+    "city": "Bengaluru",
+    "country": "India",
+    "source": "AUTHORIZED_TEST_RECORD"
+  },
+  {
+    "id": 1005,
+    "name": "Priya Gupta",
+    "phone": "9000000005",
+    "email": "priya.test@example.com",
+    "username": "priya_test",
+    "city": "Kolkata",
+    "country": "India",
+    "source": "AUTHORIZED_TEST_RECORD"
+  }
+]
